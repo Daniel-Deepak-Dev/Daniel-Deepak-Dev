@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Languages%20(Private%20Repo)&username=Daniel-Deepak-Dev&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Languages%20(Only%20Public%20Repo)&username=Daniel-Deepak-Dev&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <br/>
 
 <div>
