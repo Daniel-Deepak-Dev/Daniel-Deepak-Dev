@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <img src="https://raw.githubusercontent.com/Daniel-Deepak-Dev/Daniel-Deepak-Dev/main/assets/images/hello-cat.gif" align="center" style="width: 100%" />
 </div>
 
