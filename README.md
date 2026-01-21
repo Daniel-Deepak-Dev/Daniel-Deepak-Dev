@@ -1,64 +1,117 @@
-<div>
-<img src="https://raw.githubusercontent.com/Daniel-Deepak-Dev/Daniel-Deepak-Dev/main/assets/images/hello-cat.gif" align="center" style="width: 100%" />
-</div>
-
-## About Me
-
-### <div align="center">I'm Deepak, curious JavaScript developer having more than four years of IT experience. I enjoy working with really sophisticated technologies. I enjoy fueling my brain with cutting edge technology, and Salesforce offers a wide range of complex technologies.</div>
-
-### <div align="center">In addition to coding, I'm concentrating on UX&UI design to enhance my creativity and better grasp the sole user experience.</div>
-
-<br/>
-
-<div>
-
-- 🌱 I’m currently learning SvelteKit, NestJs & Firebase
-
-- ❓ Ask me about anything related to Salesforce and JavaScript
-
-- ⚡ Fun fact: I use tabs over spaces
-</div>
-
-## Skill Set
-
-<kbd align="center">
-
-  <div align="center" style="border:1px solid #ccc;padding:5px">
-<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-</div>
-  </kbd>
-
-## Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Daniel-Deepak-Dev&theme=blue-green&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github&include_all_commits=true" />
-</div>
-
-<br/>
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-Deepak-Dev&theme=ambient-gradient&hide_border=true&card_width=500)](https://streak-stats.demolab.com?user=Daniel-Deepak-Dev&theme=ambient-gradient&hide_border=true&card_width=500)
+  <h1>Hi there, I'm Daniel Deepak 👋</h1>
+  <h3>Senior Salesforce Developer | JavaScript Enthusiast | UX/UI Specialist</h3>
 
+  <p>
+    <a href="https://www.salesforce.com/trailblazer/deepakthomas">
+      <img src="https://img.shields.io/badge/Salesforce%20Rank-Ranger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Ranger" />
+    </a>
+    <a href="https://www.linkedin.com/in/danieldeepak/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:realdanieldeepak@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <br />
+</div>
+
+## 🚀 About Me
+
+I am a passionate **Senior Salesforce Developer** with over **7 years of experience** in the IT industry. My expertise lies in building scalable, high-performance applications on the Salesforce Platform using **Lightning Web Components (LWC)**, **Apex**, and modern web standards.
+
+Beyond the backend, I have a strong focus on **UX/UI Design**, believing that powerful functionality must be paired with an intuitive and beautiful user experience.
+
+- 🔭 **Currently Working On**: Advanced scalable Salesforce architectures and seamless integrations.
+- 🌱 **Currently Learning**: SvelteKit, NestJs, and Firebase.
+- 🏆 **Achievements**: Salesforce Ranger (118+ Badges), 11x Certified Salesforce Professional.
+- ⚡ **Fun Fact**: I prefer tabs over spaces and love optimizing code for performance.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### ☁️ Salesforce Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Apex"/>
+  <img src="https://img.shields.io/badge/LWC-Lightning%20Web%20Components-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="LWC"/>
+  <img src="https://img.shields.io/badge/Visualforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Visualforce"/>
+  <img src="https://img.shields.io/badge/SOQL%20%2F%20SOSL-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="SOQL"/>
+  <img src="https://img.shields.io/badge/Experience%20Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Experience Cloud"/>
+  <img src="https://img.shields.io/badge/Sales%20Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Sales Cloud"/>
+</p>
+
+### 💻 Web Development
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
+</p>
+
+### 🔧 Tools & Services
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Daniel-Deepak-Dev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Daniel-Deepak-Dev Trophies" />
+  </a>
+</div>
+
+## 📈 Coding Habits & Metrics
+<div align="center">
+  <!-- This image will be generated by the GitHub Action workflow -->
+  <img src="https://raw.githubusercontent.com/Daniel-Deepak-Dev/Daniel-Deepak-Dev/main/github-metrics.svg" alt="Metrics" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Deepak-Dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Deepak-Dev&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Languages%20(Only%20Public%20Repo)&username=Daniel-Deepak-Dev&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<br/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Deepak-Dev&layout=compact&theme=radical&count_private=true" width="50%" alt="Top Languages" />
+</div>
 
-<div>
+---
 
-## Social
+## 🏅 Certifications & Achievements
 
-<a href="https://www.linkedin.com/in/danieldeepak/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+| Certification | Status | License |
+| :--- | :--- | :--- |
+| **Salesforce Certified Application Architect** | Active | [Verify](https://www.salesforce.com/trailblazer/deepakthomas) |
+| **Salesforce Certified Data Architect** | Active | [Verify](https://www.salesforce.com/trailblazer/deepakthomas) |
+| **Salesforce Certified Sharing and Visibility Architect** | Active | [Verify](https://www.salesforce.com/trailblazer/deepakthomas) |
+| **Salesforce Certified Platform Developer II** | Active | [Verify](https://www.salesforce.com/trailblazer/deepakthomas) |
+| **Salesforce Certified Platform Developer I** | Active | [Verify](https://www.salesforce.com/trailblazer/deepakthomas) |
+| **Salesforce Certified Experience Cloud Consultant** | Active | [Verify](https://www.salesforce.com/trailblazer/deepakthomas) |
+| **Salesforce Certified Sales Cloud Consultant** | Active | [Verify](https://www.salesforce.com/trailblazer/deepakthomas) |
+| **Salesforce Certified Administrator** | Active | [Verify](https://www.salesforce.com/trailblazer/deepakthomas) |
+| **Salesforce Certified Platform App Builder** | Active | [Verify](https://www.salesforce.com/trailblazer/deepakthomas) |
+
+*(And more... View full profile on [Trailblazer.me](https://www.salesforce.com/trailblazer/deepakthomas))*
+
+---
+
+<div align="center">
+  <p>Thanks for visiting! Feel free to connect.</p>
 </div>
