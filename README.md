@@ -65,12 +65,7 @@ Beyond the backend, I have a strong focus on **UX/UI Design**, believing that po
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Daniel-Deepak-Dev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Daniel-Deepak-Dev Trophies" />
-  </a>
-</div>
+
 
 ## 📈 Coding Habits & Metrics
 <div align="center">
