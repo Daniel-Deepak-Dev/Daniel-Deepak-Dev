@@ -23,9 +23,9 @@
 
 ## 🚀 About Me
 
-I am a passionate **Senior Salesforce Developer** with over **7 years of experience** in the IT industry. My expertise lies in building scalable, high-performance applications on the Salesforce Platform using **Lightning Web Components (LWC)**, **Apex**, and modern web standards.
+I am a **Senior Salesforce Developer & Full Stack Engineer** obsessed with **clean architecture** and **pixel-perfect experiences**. With over **7 years of engineering experience**, I specialize in pushing the Salesforce Platform to its limits—architecting complex, scalable enterprise solutions using **Apex** and **Lightning Web Components (LWC)**.
 
-Beyond the backend, I have a strong focus on **UX/UI Design**, believing that powerful functionality must be paired with an intuitive and beautiful user experience.
+I bridge the gap between **backend logic** and **frontend artistry**. My mission is to build robust systems that not only perform seamlessly at scale but also deliver the polished, intuitive UX typically reserved for consumer apps.
 
 - 🔭 **Currently Working On**: Advanced scalable Salesforce architectures and seamless integrations.
 - 🌱 **Currently Learning**: SvelteKit, NestJs, and Firebase.
@@ -51,10 +51,10 @@ Beyond the backend, I have a strong focus on **UX/UI Design**, believing that po
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Understanding-Lightning-Web-Component](https://github.com/Daniel-Deepak-Dev/Understanding-Lightning-Web-Component)** | A comprehensive guide and implementation of advanced LWC concepts. | Salesforce, LWC, JavaScript |
-| **[SeaFood-React](https://github.com/Daniel-Deepak-Dev/SeaFood-React)** | A responsive e-commerce application for seafood delivery. | React, Redux, CSS |
-| **[Matrix_Babe](https://github.com/Daniel-Deepak-Dev/Matrix_Babe)** | A creative visual project implementing a Matrix-style digital rain effect. | HTML5, Canvas API, JavaScript |
-| **[Portfolio](https://github.com/Daniel-Deepak-Dev/Portfolio)** | My personal portfolio showcase built with clean, modern CSS. | HTML5, CSS3, Responsive Design |
+| **[Understanding-Lightning-Web-Component](https://github.com/Daniel-Deepak-Dev/Understanding-Lightning-Web-Component)** | A deep-dive reference implementation of **Advanced LWC Patterns**, encompassing component communication and state management. | Salesforce, LWC, JavaScript |
+| **[SeaFood-React](https://github.com/Daniel-Deepak-Dev/SeaFood-React)** | A high-performance **Full Stack E-commerce** platform featuring state management, responsive UI/UX, and optimized asset delivery. | React, Redux, CSS |
+| **[Matrix_Babe](https://github.com/Daniel-Deepak-Dev/Matrix_Babe)** | A highly optimized **Canvas API** visualization rendering complex, real-time "Digital Rain" animations. | HTML5, Canvas API, JavaScript |
+| **[Portfolio](https://github.com/Daniel-Deepak-Dev/Portfolio)** | A performant, accessible digital portfolio leveraging **Semantic HTML5** and **Modern CSS3** for a flawlessly responsive identity. | HTML5, CSS3, Responsive Design |
 
 ---
 
