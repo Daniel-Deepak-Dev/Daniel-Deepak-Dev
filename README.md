@@ -47,17 +47,6 @@ I bridge the gap between **backend logic** and **frontend artistry**. My mission
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Understanding-Lightning-Web-Component](https://github.com/Daniel-Deepak-Dev/Understanding-Lightning-Web-Component)** | A deep-dive reference implementation of **Advanced LWC Patterns**, encompassing component communication and state management. | Salesforce, LWC, JavaScript |
-| **[SeaFood-React](https://github.com/Daniel-Deepak-Dev/SeaFood-React)** | A high-performance **Full Stack E-commerce** platform featuring state management, responsive UI/UX, and optimized asset delivery. | React, Redux, CSS |
-| **[Matrix_Babe](https://github.com/Daniel-Deepak-Dev/Matrix_Babe)** | A highly optimized **Canvas API** visualization rendering complex, real-time "Digital Rain" animations. | HTML5, Canvas API, JavaScript |
-| **[Portfolio](https://github.com/Daniel-Deepak-Dev/Portfolio)** | A performant, accessible digital portfolio leveraging **Semantic HTML5** and **Modern CSS3** for a flawlessly responsive identity. | HTML5, CSS3, Responsive Design |
-
----
-
 ## 📈 Coding Habits & Metrics
 
 <div align="center">
